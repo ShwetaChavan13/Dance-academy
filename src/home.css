@@ -1,0 +1,14 @@
+.couresal-img {
+  position: relative;
+}
+.couresal-img #quote {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  color: white;
+  transform: translate(-50%, -50%);
+  font-family: cursive;
+  font-size: 40px;
+  width: 400px;
+  text-align: center;
+}

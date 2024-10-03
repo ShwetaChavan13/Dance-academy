@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 3px;
+    background-color:rgb(41, 18, 36);
+}
+.aca_name{
+    display:flex;
+    padding: 20px;
+    color: white;
+}
+.aca_name >h1{
+border-style: double;
+padding: 5px;
+}
+.aca_name >h1 sub{
+font-size: 15px;
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+.nav >h4 ul li{
+    color: white;
+    list-style-type: none;
+    float: left;
+    padding: 15px;
+}
+.nav >h4 ul li:hover{
+    border-bottom:2px solid white;
+}

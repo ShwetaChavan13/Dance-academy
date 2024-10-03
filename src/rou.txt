@@ -1,0 +1,6 @@
+<img src="https://e0.pxfuel.com/wallpapers/706/580/desktop-wallpaper-ammar-hasan-on-twitter-indian-classical-dance-bharatanatyam.jpg" />
+          <img src="https://static.wixstatic.com/media/e89327d9aec44e19b3b684ab3e9948e8.jpg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e89327d9aec44e19b3b684ab3e9948e8.jpg" />
+          <img src="https://learn.podium.school/wp-content/uploads/2023/11/images-18-1.jpeg.webp" />
+        </AliceCarousel>
+      </div>
+    </div>

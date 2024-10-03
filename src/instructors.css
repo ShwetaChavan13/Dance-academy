@@ -1,0 +1,19 @@
+#instruct-1{
+    display: grid;
+    grid-template-columns: auto 70%;
+    justify-content: center;
+    column-gap: 20px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    box-shadow: 5px 5px 2px #dcdcdc;
+    margin: 0px 470px 40px 220px;
+    padding: 20px;
+}
+h2{
+    margin-left: 200px;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-bottom: 2px solid gray;
+  margin-right: 70px;
+  padding-bottom: 10px ;
+}
